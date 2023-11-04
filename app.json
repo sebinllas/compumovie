@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1fd25079-d104-4ce7-a670-f4444a47c841"
+      }
+    },
+    "owner": "otracuentasebinllas"
   }
 }
